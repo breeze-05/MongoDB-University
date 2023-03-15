@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "consola": "^2.15.3",
-    "mongodb": "^5.1.0"
+    "mongodb": "^5.1.0",
+    "prompt-sync": "^4.2.0"
   }
 }
